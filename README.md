@@ -22,13 +22,14 @@ I'm a software developer with experience in various programming languages and te
   - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Projects
+## Love to do:
 
-Here are some of my notable projects:
+Here are some of stuff i loving to do:
 
-- **[Project 1]**: Description of the project
-- **[Project 2]**: Description of the project
-- **[Project 3]**: Description of the project
+- ![Games](https://img.shields.io/badge/Games-007ACC?style=for-the-badge&logo=Games&logoColor=green):
+- ![Cars](https://img.shields.io/badge/Cars-007ACC?style=for-the-badge&logo=Cars&logoColor=blue):
+- ![Video Games](https://img.shields.io/badge/VideoGames-007ACC?style=for-the-badge&logo=VideoGames&logoColor=purple):
+- ![Serve in campaines with the LEO](https://img.shields.io/badge/ServeincampaineswiththeLEO-007ACC?style=for-the-badge&logo=LEOlogoColor=black); 
 
 For more projects, please visit my [GitHub profile](https://github.com/Ailtinho-Filho).
 
