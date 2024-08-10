@@ -48,11 +48,14 @@ Here are some things I enjoy doing:
 
 Feel free to contact me on any of the following platforms:
 
-* ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[ailton.rodrigofilho@gmail.com](mailto:ailton.rodrigofilho@gmail.com) 
+* ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+* [ailton.rodrigofilho@gmail.com](mailto:ailton.rodrigofilho@gmail.com) 
 * ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 * vkgsailtinho
 * facebook
+* Ailton Rodrigo
 * linkedin
+* Ailton Rodrigo
 
 
 ## GitHub Stats
@@ -61,4 +64,4 @@ Feel free to contact me on any of the following platforms:
 
 ## GitHub Trophies
 
-![Ailtinho-Filho's GitHub Trophies](https://github-profile-t
+* ![Ailtinho-Filho's GitHub Trophies](https://github-profile-t
