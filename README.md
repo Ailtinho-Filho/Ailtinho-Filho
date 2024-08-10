@@ -35,13 +35,14 @@ I'm a software developer with experience in various programming languages and te
 
 Here are some things I enjoy doing:
 
-I enjoy playing strategy and adventure games
+***I enjoy playing strategy and adventure games*
 * ![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
-**I enjoy sports cars and drag racing*
+* 
+*I enjoy sports cars and drag racing*
 * ![Cars](https://img.shields.io/badge/Cars-007ACC?style=for-the-badge&logo=cars&logoColor=blue)
-**I enjoy watching technology and entertainment videos*
+* **I enjoy watching technology and entertainment videos*
 * ![Videos](https://img.shields.io/badge/Videos-007ACC?style=for-the-badge&logo=videos&logoColor=purple)
-**I enjoy serving in campaigns with LEO and helping people who need*
+* **I enjoy serving in campaigns with LEO and helping people who need*
 * ![Serving in campaigns with LEO](https://img.shields.io/badge/Serving%20in%20campaigns%20with%20LEO-007ACC?style=for-the-badge&logo=LEO&logoColor=black)
 
 ## Contact
