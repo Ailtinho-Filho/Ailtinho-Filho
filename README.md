@@ -65,10 +65,10 @@ Feel free to contact me on any of the following platforms:
   https://www.linkedin.com/in/ailton-rodrigo-59228a189/
 
 
-##Stats
+## Stats
 
 ![Ailtinho-Filho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ailtinho-Filho&show_icons=true&theme=radical)
 
-##Trophies
+## Trophies
 
 ![Ailtinho-Filho's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ailtinho-Filho)
