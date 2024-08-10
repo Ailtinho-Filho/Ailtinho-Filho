@@ -38,7 +38,7 @@ Here are some things I enjoy doing:
 
 Feel free to contact me on any of the following platforms:
 
-* Email: [ailton.rodrigofilho@gmail.com]
+* Email: ailton.rodrigofilho@gmail.com
 
 ## GitHub Stats
 
