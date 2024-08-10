@@ -53,7 +53,7 @@ Feel free to contact me on any of the following platforms:
 * ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 * vkgsailtinho
 * facebook
-* Ailton Rodrigo
+* (https://www.facebook.com/ailton.rodrigo.73/)
 * linkedin
 * Ailton Rodrigo
 
