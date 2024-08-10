@@ -29,7 +29,7 @@ Here are some of stuff i loving to do:
 - ![Games](https://img.shields.io/badge/Games-007ACC?style=for-the-badge&logo=Games&logoColor=green)
 - ![Cars](https://img.shields.io/badge/Cars-007ACC?style=for-the-badge&logo=Cars&logoColor=blue)
 - ![Video Games](https://img.shields.io/badge/VideoGames-007ACC?style=for-the-badge&logo=VideoGames&logoColor=purple)
-- ![Serve in campaines with the LEO](https://img.shields.io/badge/ServeincampaineswiththeLEO-007ACC?style=for-the-badge&logo=LEOlogoColor=black)
+- ![Serve in campaines with the LEO](https://img.shields.io/badge/Serve in campaines with the LEO-007ACC?style=for-the-badge&logo=LEOlogoColor=black)
 
 For more projects, please visit my [GitHub profile](https://github.com/Ailtinho-Filho).
 
