@@ -52,10 +52,10 @@ Feel free to contact me on any of the following platforms:
 * [ailton.rodrigofilho@gmail.com](mailto:ailton.rodrigofilho@gmail.com) 
 * ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 * vkgsailtinho
-* facebook
+* !facebook
 * (https://www.facebook.com/ailton.rodrigo.73/)
-* linkedin
-* Ailton Rodrigo
+* !linkedin
+* (https://www.linkedin.com/in/ailton-rodrigo-59228a189/)
 
 
 ## GitHub Stats
