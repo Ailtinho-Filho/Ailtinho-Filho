@@ -1,43 +1,45 @@
-# -About-Me
+# Ailtinho-Filho
 
-# Hello, I'm [Your Name]!
-===========================
+Welcome to my GitHub profile! I'm Ailton, and I'm excited to share my projects and contributions with you.
 
-### About Me
+## About Me
 
-I'm a [Your Profession/Student] with a passion for [Your Interests]. I'm always looking to learn more and collaborate on exciting projects.
+I'm a software developer with experience in various programming languages and technologies. I enjoy solving complex problems and collaborating with others to build innovative solutions.
 
-### My Skills
+## Skills
 
-* **Programming languages:** 
-  ![HTML Badge](https://img.shields.io/badge/HTML)
-  ![PHP Badge](https://img.shields.io/badge/PHP)
-* **Technologies:** 
-  ![React Badge](https://img.shields.io/badge/React-17.0.2-blue)
-  ![CSS Badge](https://img.shields.io/badge/CSS)
-* **Tools:** 
-  ![Git Badge](https://img.shields.io/badge/Git-2.31.1-orange)
-  ![VS Code Badge](https://img.shields.io/badge/VS%20Code-1.56.2-blue)
+- Programming Languages:
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### My Projects
+- Technologies:
+  - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  - ![HTML](https://img.shields.io/badge/Html-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![Css](https://img.shields.io/badge/CSS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![PHP](https://img.shields.io/badge/PHP-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-* **[Project 1]:** A web app that [briefly describe the project]. 
-  [Live Demo](https://example.com) | [GitHub Repo](https://github.com/your-username/project-1)
-* **[Project 2]:** A machine learning model that [briefly describe the project]. 
-  [GitHub Repo](https://github.com/your-username/project-2)
+- Tools:
+  - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Get in Touch
+## Projects
 
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
-* **Twitter:** [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
+Here are some of my notable projects:
 
-### Fun Facts
+- **[Project 1]**: Description of the project
+- **[Project 2]**: Description of the project
+- **[Project 3]**: Description of the project
 
-* I'm a [coffee enthusiast
-* I love [watching  War movies, Games and cars]
-* I'm currently learning [new skill or language]
+For more projects, please visit my [GitHub profile](https://github.com/Ailtinho-Filho).
 
-### GitHub Stats
+## Contact Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+Feel free to reach out to me on any of the following platforms in my bio
+
+## GitHub Stats
+
+![Ailtinho-Filho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ailtinho-Filho&show_icons=true&theme=radical)
+
