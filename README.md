@@ -62,7 +62,7 @@ Feel free to contact me on any of the following platforms:
   https://www.facebook.com/ailton.rodrigo.73/
 * ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 *
- https://www.linkedin.com/in/ailton-rodrigo-59228a189/
+  https://www.linkedin.com/in/ailton-rodrigo-59228a189/
 
 
 ## GitHub Stats
@@ -71,4 +71,4 @@ Feel free to contact me on any of the following platforms:
 
 ## GitHub Trophies
 
-![Ailtinho-Filho's GitHub Trophies](https://github-profile-t
+![Ailtinho-Filho's GitHub Trophies](https://github-profile-trophies)
