@@ -38,9 +38,7 @@ Here are some things I enjoy doing:
 
 Feel free to contact me on any of the following platforms:
 
-* Email: [your email]
-* LinkedIn: [your LinkedIn link]
-* Twitter: [your Twitter link]
+* Email: [ailton.rodrigofilho@gmail.com]
 
 ## GitHub Stats
 
