@@ -38,7 +38,7 @@ Here are some things I enjoy doing:
 * I enjoy playing strategy and adventure games*
 * ![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
  
-*I enjoy sports cars and drag racing*
+* I enjoy sports cars and drag racing*
 * ![Cars](https://img.shields.io/badge/Cars-007ACC?style=for-the-badge&logo=cars&logoColor=blue)
 
 * I enjoy watching technology and entertainment videos*
@@ -71,4 +71,4 @@ Feel free to contact me on any of the following platforms:
 
 ## GitHub Trophies
 
-* ![Ailtinho-Filho's GitHub Trophies](https://github-profile-t
+![Ailtinho-Filho's GitHub Trophies](https://github-profile-t
