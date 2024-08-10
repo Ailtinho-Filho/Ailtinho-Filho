@@ -4,21 +4,18 @@ Welcome to my GitHub profile! I'm Ailton, and I'm excited to share my projects a
 
 ## About Me
 
-I'm a software developer with experience in various programming languages and technologies. I enjoy solving complex problems and collaborating with others to build innovative solutions.
+I'm a software developer with experience in various programming languages and technologies. I enjoy collaborating with others to build solutions.
 
 ## Skills
 
 - Programming Languages:
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-- Technologies:
-  - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   - ![HTML](https://img.shields.io/badge/Html-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 - ![Css](https://img.shields.io/badge/CSS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 - ![PHP](https://img.shields.io/badge/PHP-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+- Technologies:
+  - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  - ![Bootstrap](https://img.shields.io/badge/Bootstrap-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 - Tools:
   - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
