@@ -9,7 +9,7 @@ I'm a software developer with experience in various programming languages and te
 ## Skills
 
 - Programming Languages:
-  - ![HTML](https://img.shields.io/badge/Html-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![HTML](https://img.shields.io/badge/Html-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 - ![Css](https://img.shields.io/badge/CSS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 - ![PHP](https://img.shields.io/badge/PHP-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
