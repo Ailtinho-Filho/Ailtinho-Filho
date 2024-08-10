@@ -71,4 +71,4 @@ Feel free to contact me on any of the following platforms:
 
 ## GitHub Trophies
 
-![Ailtinho-Filho's GitHub Trophies]https://github-profile-trophy.vercel.app/?Ailtinho-Filho={Ailtinho-Filho}
+![Ailtinho-Filho's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ailtinho-Filho)
