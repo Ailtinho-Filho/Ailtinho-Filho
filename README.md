@@ -56,6 +56,13 @@ Feel free to contact me on any of the following platforms:
 
 ![Ailtinho-Filho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ailtinho-Filho&show_icons=true&theme=radical)
 
+<div style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/otaviossousa/otaviossousa/blob/output/ocean.gif" />
+  </picture>
+</div>
 ## Trophies
 
 ![Ailtinho-Filho's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ailtinho-Filho)
