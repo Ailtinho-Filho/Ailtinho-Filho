@@ -45,8 +45,7 @@ Feel free to contact me on any of the following platforms:
 
 * ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 * 
-  [ailton.rodrigofilho@gmail.com](mailto:ailton.rodrigofilho@gmail.com) 
-  https://www.facebook.com/ailton.rodrigo.73/
+  [ailton.rodrigofilho@gmail.com](mailto:ailton.rodrigofilho@gmail.com)
 * ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 *
   https://www.linkedin.com/in/ailton-rodrigo-59228a189/
